@@ -49,7 +49,7 @@ describe('Demo Calculator Tests', function() {
         browser.sleep(1000) 
 
         homepage.clickGo1();
-        browser.sleep(1000) 
+        browser.sleep(2000) 
 
         homepage.verifyResult('7');
         
