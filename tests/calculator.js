@@ -48,7 +48,7 @@ describe('Demo Calculator Tests', function() {
         homepage.enterSecondNumber('3');
         browser.sleep(1000) 
 
-        homepage.clickGo1();
+        homepage.clickGo();
         browser.sleep(2000) 
 
         homepage.verifyResult('7');
