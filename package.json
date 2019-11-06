@@ -1,0 +1,31 @@
+{
+  "name": "protractor-demo",
+  "version": "1.0.0",
+  "description": "protractor demo v1",
+  "main": "conf/conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine": "^3.5.0",
+    "protractor-html-reporter-2": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpPomi/ProtractorFrameworkTest1.git"
+  },
+  "keywords": [
+    "Protractor"
+  ],
+  "author": "lppomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpPomi/ProtractorFrameworkTest1/issues"
+  },
+  "homepage": "https://github.com/lpPomi/ProtractorFrameworkTest1#readme"
+}
